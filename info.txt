@@ -1,0 +1,2 @@
+Goal : predicting the rate of a given cryptocurrency 
+
